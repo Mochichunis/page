@@ -1,6 +1,7 @@
 import React from 'react';
-import './style/index.sass';
+import './style/Index.sass';
 import './style/Menu.sass';
+import './style/Page.sass';
 import Menu from './component/Menu';
 import Page from './component/Page';
 
