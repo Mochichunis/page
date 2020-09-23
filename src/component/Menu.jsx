@@ -12,7 +12,6 @@ function Menu() {
       <ul className="items">
         <li className="neo-btn">Talles</li>
         <li className="neo-btn">Costo de envio</li>
-        <li className="neo-btn">Talles especiales</li>
       </ul>
       
       <a  
