@@ -1,5 +1,5 @@
 import React from 'react';
-import { Formik } from 'formik';
+// import { Formik } from 'formik';
 
 const Modal = (props) => {
     return (
@@ -10,7 +10,7 @@ const Modal = (props) => {
             <div className="title">
                 <h2>Indique las medidas de su perro</h2>
             </div>
-
+{/* 
             <Formik
                 initialValues={{ email: '', password: '' }}
                 validate={values => {
@@ -69,7 +69,7 @@ const Modal = (props) => {
                             </button>
                         </form>
                     )}
-            </Formik>
+            </Formik> */}
 
 
 
