@@ -1,11 +1,7 @@
 {
-  "name": "mochichunis-app",
+  "name": "app-mochichunis",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "npm": "6.14.5",
-    "node": "12.18.1"
-  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -14,10 +10,7 @@
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-redux": "^7.2.1",
-    "react-scripts": "3.4.3",
-    "redux": "^4.0.5",
-    "uuid": "^8.3.0"
+    "react-scripts": "3.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
